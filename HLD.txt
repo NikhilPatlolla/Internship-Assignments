@@ -1,0 +1,25 @@
+High-Level Design (HLD):
+The high-level design provides an overview of the system and its components. It describes the major modules and their interactions.
+
+1. Account Holder:
+   - Represents an account holder with a unique user ID and user PIN.
+
+2. Account:
+   - Represents a bank account with an account number and balance.
+   - Provides functionalities for deposit, withdrawal, and transfer of funds.
+
+3. Bank:
+   - Manages multiple accounts and account holders.
+   - Stores account holder information and account details.
+   - Maintains a transaction history for each account.
+   - Provides methods to create accounts, add account holders, retrieve accounts by user ID, and show transaction history.
+
+4. Bank Transaction:
+   - Represents a bank transaction, including the account involved, transaction type, and amount.
+
+5. ATM:
+   - Acts as the interface for the ATM system.
+   - Authenticates users based on their user ID and PIN.
+   - Provides menu options for users to perform transactions such as show transaction history, withdraw, deposit, and transfer.
+   - Interacts with the Bank to execute transactions and maintain transaction history.
+
