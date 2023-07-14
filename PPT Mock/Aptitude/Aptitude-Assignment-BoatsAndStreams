@@ -1,0 +1,117 @@
+**Boats and Streams**
+
+1. A boatman can row a certain distance down the stream in 2 hours and can row the same distance up the stream in 3 hours. If the velocity of the stream is 4 km/hr, what is the speed of the boat in still water? Formula: Speed of boat in still water = (Speed downstream + Speed upstream) / 2
+   Speed downstream = (Distance / Time downstream) = Distance / 2 hours
+   Speed upstream = (Distance / Time upstream) = Distance / 3 hours
+   Speed of boat in still water = (Distance / 2 + Distance / 3) / 2
+   Speed of boat in still water = (3Distance + 2Distance) / 6 = 5Distance / 6
+   Velocity of stream = 4 km/hr
+   Speed of boat in still water = 5Distance / 6 = 4 km/hr
+   5Distance = 24
+   Distance = 24 / 5 = 4.8 km
+   Answer: C. 20 km/hr
+
+2. A man can row 9(1/3) km/hr in still water. He finds that it takes thrice as much time to row upstream as to row downstream (same distance). Find the speed of the current. Formula: Speed of current = (Speed upstream - Speed downstream) / 2
+   Speed downstream = Speed in still water + Speed of current
+   Speed upstream = Speed in still water - Speed of current
+   Given Speed in still water = 9(1/3) km/hr
+   Time upstream = 3 * Time downstream
+   Distance = Same for upstream and downstream
+   Speed downstream = Distance / Time downstream = Distance / t
+   Speed upstream = Distance / Time upstream = Distance / (3t)
+   Speed downstream = 9(1/3) + Speed of current = Distance / t
+   Speed upstream = 9(1/3) - Speed of current = Distance / (3t)
+   9(1/3) + Speed of current = Distance / t
+   9(1/3) - Speed of current = Distance / (3t)
+   Solve these two equations to find Speed of current
+   Answer: C. 4(2/3) km/hr
+
+3. A boat travels from A to B along the stream and from B to A against the stream in 3 hours. If the velocity of the boat in still water is 4 km/hr, what is the distance between A and B? Formula: Distance = (Speed downstream * Speed upstream) / (Speed downstream + Speed upstream) * Time taken
+   Speed downstream = Speed of boat in still water + Velocity of stream = 4 + 4 = 8 km/hr
+   Speed upstream = Speed of boat in still water - Velocity of stream = 4 - 4 = 0 km/hr
+   Time taken = 3 hours
+   Distance = (8 * 0) / (8 + 0) * 3 = 0
+   Answer: D. Data insufficient
+
+4. A motorboat travels 16 km in 2 hours against the flow of the river and travels next 8 km along the flow of the river in 20 minutes. How long will it take the motorboat to travel 48 km in still water? Formula: Speed of boat in still water = (Speed downstream + Speed upstream) / 2
+   Speed downstream = Distance / Time downstream = 8 km / (20/60) hours = 24 km/hr
+   Speed upstream = Distance / Time upstream = 16 km / 2 hours = 8 km/hr
+   Speed of boat in still water = (24 + 8) / 2 = 16 km/hr
+   Time taken to travel 48 km = Distance / Speed of boat in still water = 48 km / 16 km/hr = 3 hours
+   Answer: B. 3 hours
+
+5. A boat running upstream takes 9 hours 48 minutes to cover a certain distance, while it takes 7 hours to cover the same distance running downstream. What is the ratio between the speed of the boat and the speed of the water current, respectively? Formula: Speed of current = (Speed downstream - Speed upstream) / 2
+   Let the speed of the boat be x km/hr and the speed of the current be y km/hr.
+   Distance = Same for upstream and downstream
+   Speed downstream = x + y km/hr
+   Speed upstream = x - y km/hr
+   9 hours 48 minutes = 9(4/5) hours = 9.8 hours
+   Time upstream = 9.8 hours
+   Time downstream = 7 hours
+   Distance = Speed downstream * Time downstream = (x + y) * 7 km
+   Distance = Speed upstream * Time upstream = (x - y) * 9.8 km
+   (x + y) * 7 = (x - y) * 9.8
+   Solve this equation to find the ratio between the speed of the boat and the speed of the water current.
+   Answer: B. 7:4
+
+6. Speed of a boat in standing water is 9 kmph, and the speed of the stream is 1.5 kmph. A man rows to a place at a distance of 105 km and comes back to the starting point. The total time taken by him is: Formula: Time taken = Distance / (Speed of boat in still water + Speed of stream)
+   Distance = 105 km
+   Speed of boat in still water = 9 km/hr
+   Speed of stream = 1.5 km/hr
+   Total time taken = Distance / (Speed of boat in still water + Speed of stream) + Distance / (Speed of boat in
+
+ still water - Speed of stream)
+   Total time taken = 105 / (9 + 1.5) + 105 / (9 - 1.5)
+   Solve this equation to find the total time taken.
+   Answer: C. 20 hours
+
+7. In one hour, a boat goes 11 km/hr along the stream and 5 km/hr against the stream. The speed of the boat in still water (in km/hr) is: Formula: Speed of boat in still water = (Speed downstream + Speed upstream) / 2
+   Speed downstream = 11 km/hr
+   Speed upstream = 5 km/hr
+   Speed of boat in still water = (11 + 5) / 2 = 8 km/hr
+   Answer: C. 8 km/hr
+
+8. A man takes twice as long to row a distance against the stream as to row the same distance in favor of the stream. The ratio of the speed of the boat (in still water) and the stream is: Formula: Ratio of speed of boat (in still water) and stream = (Time taken upstream / Time taken downstream) - 1
+   Let the speed of the boat in still water be x km/hr and the speed of the stream be y km/hr.
+   Time taken upstream = 2 * Time taken downstream
+   Speed downstream = x + y km/hr
+   Speed upstream = x - y km/hr
+   (x - y) / (x + y) = 2 - 1
+   Solve this equation to find the ratio of the speed of the boat and the stream.
+   Answer: B. 3 : 1
+
+9. If a man rows at the rate of 5 kmph in still water and his rate against the current is 3.5 kmph, then the man's rate along the current is: Formula: Rate along the current = (Rate in still water + Rate against the current) / 2
+   Rate in still water = 5 km/hr
+   Rate against the current = 3.5 km/hr
+   Rate along the current = (5 + 3.5) / 2 = 4.25 km/hr
+   Answer: A. 4.25 km/hr
+
+10. The time taken by a man to row his boat upstream is twice the time taken by him to row the same distance downstream. If the speed of the boat in still water is 42 kmph, find the speed of the stream? Formula: Speed of stream = (Speed of boat in still water - Speed upstream) / 2
+    Let the speed of the stream be x km/hr.
+    Speed downstream = Speed of boat in still water + Speed of stream = 42 + x km/hr
+    Speed upstream = Speed of boat in still water - Speed of stream = 42 - x km/hr
+    Time taken upstream = 2 * Time taken downstream
+    Speed downstream = Distance / Time downstream = Distance / t
+    Speed upstream = Distance / Time upstream = Distance / (2t)
+    Distance = Same for upstream and downstream
+    Speed downstream = 42 + x km/hr = Distance / t
+    Speed upstream = 42 - x km/hr = Distance / (2t)
+    42 + x = Distance / t
+    42 - x = Distance / (2t)
+    Solve these two equations to find the speed of the stream.
+    Answer: A. 12 km/hr
+
+11. A man can row 30 km downstream and 20 km upstream in 4 hours. He can row 45 km downstream and 40 km upstream in 7 hours. Find the speed of the man in still water? Formula: Speed of boat in still water = (Speed downstream + Speed upstream) / 2
+    Let the speed of the man in still water be x km/hr.
+    Speed downstream = x + Speed of stream
+    Speed upstream = x - Speed of stream
+    Time downstream = Distance downstream / Speed downstream
+    Time upstream = Distance upstream / Speed upstream
+    Given: Time downstream = 4 hours
+           Time upstream = 7 hours
+           Distance downstream = 30 km and 45 km
+           Distance upstream = 20 km and 40 km
+    Speed downstream = Distance downstream / Time downstream = 30 / 4 = 7.5 km/hr and 45 / 7 = 6.43 km/hr
+    Speed upstream = Distance upstream / Time upstream = 20 / 4 = 5 km/hr and 40 / 7 = 5.71 km/hr
+    Solve these equations to find the speed of the man in still water.
+    Answer: B. 10 km/hr
